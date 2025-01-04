@@ -1,0 +1,33 @@
+title: "AlvarVG's corner"
+tagline: "AlvarVG's corner"
+email: "alvigo92@gmail.com"
+author:
+  name: "Alvar Viana Gomez"
+  url: "https://alvarvg.github.io"
+description: >-
+  Wellcome to my personal site! I am Alvar Viana and this is my corner.
+url: "https://alvarvg.github.io"
+github_username: "AlvarVG"
+
+theme: no-style-please
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme_config:
+  appearance: "auto"
+  back_home_text: "<- Back"
+  date_format: "%Y-%m-%d"
+  show_description: false
+  lowercase_titles: true
+
+sass:
+  style: compressed
+
+include: 
+  - _pages
+  
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
