@@ -1,0 +1,43 @@
+title: "alvarvg's corner"
+tagline: "alvarvg's corner"
+email: "alvigo92@gmail.com"
+author:
+  name: "alvar viana gomez"
+  url: "https://alvarvg.github.io"
+description: >-
+  wellcome to my personal site! I am alvar viana and this is my corner.
+url: "https://alvarvg.github.io"
+baseurl: ""
+github_username: "alvarvg"
+
+theme: no-style-please
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme_config:
+  appearance: "auto"
+  back_home_text: "<- back"
+  date_format: "%Y-%m-%d"
+  show_description: false
+  lowercase_titles: true
+
+sass:
+  style: compressed
+
+include: 
+  - _pages
+  
+exclude:
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Makefile
+  - LICENSE
