@@ -1,13 +1,13 @@
-title: "AlvarVG's corner"
-tagline: "AlvarVG's corner"
+title: "alvarvg's corner"
+tagline: "alvarvg's corner"
 email: "alvigo92@gmail.com"
 author:
-  name: "Alvar Viana Gomez"
+  name: "alvar viana gomez"
   url: "https://alvarvg.github.io"
 description: >-
-  Wellcome to my personal site! I am Alvar Viana and this is my corner.
+  wellcome to my personal site! I am alvar viana and this is my corner.
 url: "https://alvarvg.github.io"
-github_username: "AlvarVG"
+github_username: "alvarvg"
 
 theme: no-style-please
 plugins:
@@ -16,9 +16,9 @@ plugins:
 
 theme_config:
   appearance: "auto"
-  back_home_text: "<- Back"
+  back_home_text: "<- back"
   date_format: "%Y-%m-%d"
-  show_description: false
+  show_description: true
   lowercase_titles: true
 
 sass:

@@ -1,0 +1,21 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+
+  - title: contact me
+    entries:
+      - title: github
+        url: https://github.com/alvarvg
+      - title: linkedin
+        url: https://www.linkedin.com/in/alvarviana
+      - title: email
+        url: mailto:alvigo92@gmail.com
+  
+  - title: posts
+    post_list:
+      limit: 7
+      show_more: true
+      show_more_test: "see archive..."
+      show_more_url: /archive
+      

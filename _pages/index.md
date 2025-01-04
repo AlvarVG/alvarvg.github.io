@@ -1,5 +1,5 @@
 ---
 layout: home
-title: AlvarVG's corner
+title: alvarvg's corner
 permalink: /
 ---
