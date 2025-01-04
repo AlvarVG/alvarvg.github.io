@@ -1,0 +1,13 @@
+## Ignore Jekyll files and folders
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+_drafts/
+
+## Ignore custom file and
+*.log
+*.tmp
+.old*/
