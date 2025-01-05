@@ -17,7 +17,7 @@ for more detailed profesional background you can always check my [networks](/net
 i am an active person who likes to do everything, but lately the things i have been doing most are:
 
 - mountain biking: i bought a new bike a couple of years ago and have been adding kilometers ever since. 
-- video games: i waste a lot of time playing video games, buyt who can say no to having a good time playing with friends?
+- video games: i waste a lot of time playing video games, but who can say no to having a good time playing with friends?
 - board games: same applies for board games, but this time in person and having a good snacks and dinner
 - books: although i read less than i would like to, my devices are full of book ready to be read
 - chess: no matter online or in person, there is always time for a game of chess
