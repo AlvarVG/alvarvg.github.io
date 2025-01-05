@@ -3,10 +3,10 @@ tagline: "alvarvg's corner"
 email: "alvigo92@gmail.com"
 author:
   name: "alvar viana gomez"
-  # url: "https://alvarvg.github.io"
+  url: "https://alvarvg.github.io"
 description: >-
   wellcome to my personal site! I am alvar viana and this is my corner.
-# url: "https://alvarvg.github.io"
+url: "https://alvarvg.github.io"
 github_username: "alvarvg"
 
 theme: no-style-please
