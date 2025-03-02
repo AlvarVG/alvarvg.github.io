@@ -43,7 +43,3 @@ exclude:
   - vendor/ruby/
   - Makefile
   - LICENSE
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: G-DRN83PNJQE
