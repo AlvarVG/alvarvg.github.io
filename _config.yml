@@ -9,6 +9,7 @@ description: >-
 url: "https://alvarvg.github.io"
 baseurl: ""
 github_username: "alvarvg"
+google_analytics: G-DRN83PNJQE
 
 theme: no-style-please
 plugins:
