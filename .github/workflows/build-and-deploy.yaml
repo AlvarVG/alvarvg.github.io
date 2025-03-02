@@ -9,6 +9,8 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
+    env:
+      JEKYLL_ENV: production
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -23,7 +25,7 @@ jobs:
         run: bundle install
 
       - name: Build site
-        run: JEKYLL_ENV=production bundle exec jekyll build
+        run:  bundle exec jekyll build
 
       - name: Upload static files as artifact
         id: deployment
@@ -41,6 +43,8 @@ jobs:
       id-token: write
       pages: write
     needs: build
+    env:
+      JEKYLL_ENV: production
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
